@@ -1,3 +1,3 @@
 # Lyrics
 
-Script python pentru afisarea in terminal a versurilor melodiilor de pe spotify, folosind doua wrappere in jurul api-urilor de la genius si spotify - LyricsGenius si Spotipy
+Python script for displaying spotify song lyrics inside of the terminal. This is done using two wrappers for the API's of spotify and genius - LyricsGenius & Spotipy
